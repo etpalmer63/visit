@@ -4,7 +4,7 @@
     <Field name="host" type="string">perlmutter.nersc.gov</Field>
     <Field name="userName" type="string">notset</Field>
     <Field name="hostAliases" type="string">login##.chn</Field>
-    <Field name="directory" type="string">/global/cfs/cdirs/alpine/brugger/spack/opt/spack/linux-sles15-zen3/gcc-11.2.0/visit-3.3.3-gud54yyp44tv4gomn3i62wewdknpc2at</Field>
+    <Field name="directory" type="string">/global/common/software/nersc9/visit</Field>
     <Field name="shareOneBatchJob" type="bool">false</Field>
     <Field name="sshPortSpecified" type="bool">false</Field>
     <Field name="sshPort" type="int">22</Field>
@@ -27,7 +27,7 @@
         <Field name="partitionSet" type="bool">false</Field>
         <Field name="partition" type="string"></Field>
         <Field name="bankSet" type="bool">true</Field>
-        <Field name="bank" type="string">m3090</Field>
+        <Field name="bank" type="string"></Field>
         <Field name="timeLimitSet" type="bool">true</Field>
         <Field name="timeLimit" type="string">01:00:00</Field>
         <Field name="launchMethodSet" type="bool">true</Field>
@@ -67,7 +67,7 @@
         <Field name="partitionSet" type="bool">false</Field>
         <Field name="partition" type="string"></Field>
         <Field name="bankSet" type="bool">true</Field>
-        <Field name="bank" type="string">m3090</Field>
+        <Field name="bank" type="string"></Field>
         <Field name="timeLimitSet" type="bool">true</Field>
         <Field name="timeLimit" type="string">00:30:00</Field>
         <Field name="launchMethodSet" type="bool">true</Field>
@@ -107,7 +107,7 @@
         <Field name="partitionSet" type="bool">false</Field>
         <Field name="partition" type="string"></Field>
         <Field name="bankSet" type="bool">true</Field>
-        <Field name="bank" type="string">m3090</Field>
+        <Field name="bank" type="string"></Field>
         <Field name="timeLimitSet" type="bool">true</Field>
         <Field name="timeLimit" type="string">01:00:00</Field>
         <Field name="launchMethodSet" type="bool">true</Field>
